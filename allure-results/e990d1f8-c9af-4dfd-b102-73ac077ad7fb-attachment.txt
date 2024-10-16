@@ -1,0 +1,68 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'Tests.T01_e2e_Scenario.test'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://opensource-demo.orangehrmlive.com/" @16-10-2024 15:00:05.0940 PM
+[ReportManager] Initial URL: "about:blank" @16-10-2024 15:00:05.0956 PM
+[ReportManager] Navigate to url "https://opensource-demo.orangehrmlive.com/". @16-10-2024 15:00:09.0420 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:09.0927 PM
+[ReportManager] Type "Admin" into "Username". @16-10-2024 15:00:09.0962 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:10.0005 PM
+[ReportManager] Type "admin123" into "Password". @16-10-2024 15:00:10.0061 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:10.0199 PM
+[ReportManager] Click "Login". @16-10-2024 15:00:11.0242 PM
+[ReportManager] Verify that the element located by "By.cssSelector: .oxd-userdropdown-tab" exists. @16-10-2024 15:00:11.0251 PM
+[ReportManager] Expected "true", and actual "true" @16-10-2024 15:00:11.0616 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_15-00-14-319_16102024' @16-10-2024 15:00:14.0319 PM
+[ReportManager] Expected "true", and actual "true" @16-10-2024 15:00:14.0323 PM
+[ReportManager] Verification passed @16-10-2024 15:00:14.0324 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:14.0519 PM
+[ReportManager] Click "By.xpath: //ul[@class="oxd-main-menu"]/li [contains(.,'Admin')]". @16-10-2024 15:00:15.0226 PM
+[ReportManager] Get text "(5) Records Found" from "By.xpath: //span[contains(.,'Records ')]". @16-10-2024 15:00:15.0864 PM
+[ReportManager] Get text "manda user" from "manda user". @16-10-2024 15:00:15.0936 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:16.0114 PM
+[ReportManager] Click " Add". @16-10-2024 15:00:16.0474 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:16.0944 PM
+[ReportManager] Click "By.xpath: (//label[@class='oxd-label oxd-input-field-required'] [contains(.,'User Role') or contains(.,'Rol de Usuario')]//following::div)[1]". @16-10-2024 15:00:16.0996 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:17.0174 PM
+[ReportManager] Click "Admin". @16-10-2024 15:00:17.0232 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:17.0414 PM
+[ReportManager] Click "By.xpath: (//label[@class='oxd-label oxd-input-field-required'] [contains(.,'Status') or contains(.,'Estatus')]//following::div)[1]". @16-10-2024 15:00:17.0456 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:17.0644 PM
+[ReportManager] Click "Enabled". @16-10-2024 15:00:17.0704 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:17.0846 PM
+[ReportManager] Type "manda user" into "Type for hints...". @16-10-2024 15:00:17.0947 PM
+[ReportManager] Key press "ARROW_DOWN" against "Type for hints...". @16-10-2024 15:00:20.0594 PM
+[ReportManager] Key press "ENTER" against "Type for hints...". @16-10-2024 15:00:20.0722 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:20.0865 PM
+[ReportManager] Type "AhmadJoe" into "By.xpath: (//label[text()='Username' or text()='Nombre de usuario']//following::input)[1]". @16-10-2024 15:00:20.0945 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:21.0055 PM
+[ReportManager] Type "Test@1234" into "By.xpath: (//label[text()='Password' or text()='Contraseña']//following::input)[1]". @16-10-2024 15:00:21.0153 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:21.0245 PM
+[ReportManager] Type "Test@1234" into "By.xpath: //label[text()='Confirm Password' or text()='Confirme contraseña']//following::input". @16-10-2024 15:00:21.0334 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:21.0524 PM
+[ReportManager] Click "Save". @16-10-2024 15:00:21.0554 PM
+[ReportManager] Get text "(7) Records Found" from "By.xpath: //span[contains(.,'Records ')]". @16-10-2024 15:00:26.0553 PM
+[ReportManager] Get text "manda user" from "manda user". @16-10-2024 15:00:26.0626 PM
+[ReportManager] Assert that "2" is equal to "1". @16-10-2024 15:00:26.0626 PM
+[ReportManager] Expected "1", and actual "2" @16-10-2024 15:00:26.0631 PM
+[ReportManager] Expected "1", and actual "2" @16-10-2024 15:00:26.0633 PM
+[ReportManager] Assertion failed; expected 1, but found 2 @16-10-2024 15:00:26.0633 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 15:00:26.0776 PM
+[ReportManager] Type "AhmadJoe" into "By.xpath: (//label[text()='Username' or text()='Nombre de usuario']//following::input)[1]". @16-10-2024 15:00:26.0862 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:27.0025 PM
+[ReportManager] Click "Search". @16-10-2024 15:00:27.0078 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:27.0876 PM
+[ReportManager] Click "". @16-10-2024 15:00:27.0933 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:28.0131 PM
+[ReportManager] Click " Yes, Delete". @16-10-2024 15:00:28.0175 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 15:00:28.0347 PM
+[ReportManager] Click "By.xpath: //ul[@class="oxd-main-menu"]/li [contains(.,'Admin')]". @16-10-2024 15:00:28.0976 PM
+[ReportManager] Get text "(6) Records Found" from "By.xpath: //span[contains(.,'Records ')]". @16-10-2024 15:00:29.0675 PM
+[ReportManager] Get text "manda user" from "manda user". @16-10-2024 15:00:29.0735 PM
+[ReportManager] Assert that "6" is equal to "5". @16-10-2024 15:00:29.0735 PM
+[ReportManager] Expected "5", and actual "6" @16-10-2024 15:00:29.0744 PM
+[ReportManager] Expected "5", and actual "6" @16-10-2024 15:00:29.0744 PM
+[ReportManager] Assertion failed; expected 5, but found 6 @16-10-2024 15:00:29.0744 PM
