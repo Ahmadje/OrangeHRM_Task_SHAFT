@@ -1,0 +1,54 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'Tests.T01_e2e_Scenario.test'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://opensource-demo.orangehrmlive.com/" @16-10-2024 14:45:00.0718 PM
+[ReportManager] Initial URL: "about:blank" @16-10-2024 14:45:00.0735 PM
+[ReportManager] Navigate to url "https://opensource-demo.orangehrmlive.com/". @16-10-2024 14:45:03.0587 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:04.0036 PM
+[ReportManager] Type "Admin" into "Username". @16-10-2024 14:45:04.0067 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:04.0122 PM
+[ReportManager] Type "admin123" into "Password". @16-10-2024 14:45:04.0169 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:04.0322 PM
+[ReportManager] Click "Login". @16-10-2024 14:45:05.0397 PM
+[ReportManager] Verify that the element located by "By.cssSelector: .oxd-userdropdown-tab" exists. @16-10-2024 14:45:05.0429 PM
+[ReportManager] Expected "true", and actual "true" @16-10-2024 14:45:05.0757 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_14-45-08-435_16102024' @16-10-2024 14:45:08.0435 PM
+[ReportManager] Expected "true", and actual "true" @16-10-2024 14:45:08.0435 PM
+[ReportManager] Verification passed @16-10-2024 14:45:08.0443 PM
+[ReportManager] Verification passed @16-10-2024 14:45:08.0444 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:08.0643 PM
+[ReportManager] Click "By.xpath: //ul[@class="oxd-main-menu"]/li [contains(.,'Admin')]". @16-10-2024 14:45:09.0286 PM
+[ReportManager] Get text "(92) Records Found" from "By.xpath: //span[contains(.,'Records ')]". @16-10-2024 14:45:10.0040 PM
+[ReportManager] Get text "A8DCo 010Z" from "A8DCo 010Z". @16-10-2024 14:45:10.0104 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:10.0279 PM
+[ReportManager] Click " Add". @16-10-2024 14:45:10.0645 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:11.0114 PM
+[ReportManager] Click "By.xpath: (//label[@class='oxd-label oxd-input-field-required'] [contains(.,'User Role') or contains(.,'Rol de Usuario')]//following::div)[1]". @16-10-2024 14:45:11.0167 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:11.0335 PM
+[ReportManager] Click "Admin". @16-10-2024 14:45:11.0384 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:11.0548 PM
+[ReportManager] Click "By.xpath: (//label[@class='oxd-label oxd-input-field-required'] [contains(.,'Status') or contains(.,'Estatus')]//following::div)[1]". @16-10-2024 14:45:11.0597 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:11.0786 PM
+[ReportManager] Click "Enabled". @16-10-2024 14:45:11.0834 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:11.0944 PM
+[ReportManager] Type "A8DCo 010Z" into "Type for hints...". @16-10-2024 14:45:12.0041 PM
+[ReportManager] Key press "ARROW_DOWN" against "Type for hints...". @16-10-2024 14:45:14.0725 PM
+[ReportManager] Key press "ENTER" against "Type for hints...". @16-10-2024 14:45:14.0859 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:14.0973 PM
+[ReportManager] Type "AhmadJoe" into "By.xpath: (//label[text()='Username' or text()='Nombre de usuario']//following::input)[1]". @16-10-2024 14:45:15.0046 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:15.0144 PM
+[ReportManager] Type "Test@1234" into "By.xpath: (//label[text()='Password' or text()='Contraseña']//following::input)[1]". @16-10-2024 14:45:15.0259 PM
+[ReportManager] Text cleared Using Native Clear @16-10-2024 14:45:15.0365 PM
+[ReportManager] Type "Test@1234" into "By.xpath: //label[text()='Confirm Password' or text()='Confirme contraseña']//following::input". @16-10-2024 14:45:15.0455 PM
+[ReportManager] Moved the mouse to the middle of the element. @16-10-2024 14:45:15.0629 PM
+[ReportManager] Click "Save". @16-10-2024 14:45:15.0679 PM
+[ReportManager] Get text "(92) Records Found" from "By.xpath: //span[contains(.,'Records ')]". @16-10-2024 14:45:22.0094 PM
+[ReportManager] Get text "A8DCo 010Z" from "A8DCo 010Z". @16-10-2024 14:45:22.0160 PM
+[ReportManager] Assert that "0" is equal to "1". @16-10-2024 14:45:22.0166 PM
+[ReportManager] Expected "1", and actual "0" @16-10-2024 14:45:22.0171 PM
+[ReportManager] Expected "1", and actual "0" @16-10-2024 14:45:22.0174 PM
+[ReportManager] Assertion failed; expected 1, but found 0 @16-10-2024 14:45:22.0175 PM
+[ReportManager] Assertion failed; expected 1, but found 0 @16-10-2024 14:45:22.0177 PM
